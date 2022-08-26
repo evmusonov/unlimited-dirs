@@ -1,0 +1,11 @@
+{
+    "name": "root/src",
+    "require": {
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "UnlimitedDirs\\": "scripts/"
+        }
+    }
+}
